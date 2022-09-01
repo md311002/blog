@@ -1,4 +1,4 @@
-import PostGrid from '../../components/Post-Grid'
+import PostGrid from '../../components/PostGrid'
 import { getAllPosts } from '../../lib/posts-util'
 import classes from '../../styles/allposts.module.css'
 
