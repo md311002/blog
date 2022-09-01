@@ -1,4 +1,4 @@
-import PostItem from "./post-item";
+import PostItem from "./PostItem";
 import classes from './postgrid.module.css'
 
 
