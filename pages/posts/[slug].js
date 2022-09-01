@@ -1,4 +1,4 @@
-import PostContent from "../../components/PostCOntent"
+import PostContent from "../../components/PostContent"
 import { getPost, getPostFiles } from "../../lib/posts-util"
 
 export default function BlogDetail(props) {
