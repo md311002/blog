@@ -8,7 +8,7 @@ export default function Header(props) {
     return (
         <header className={classes.header}>
             <h1>{title}</h1>
-            <Image src={image} height={150} width={200}></Image>
+            <Image alt='hii' src={image} height={150} width={200}></Image>
         </header>
 
     )

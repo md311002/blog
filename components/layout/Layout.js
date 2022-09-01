@@ -7,7 +7,7 @@ export default function Layout(props) {
             <div className="flex bg-gray-700">
                 <header className="flex-1 items-center ml-16 pt-2">
                     <Link href='/'>
-                        <Image className="rounded-lg" src='/Images/site/572.png' width={50} height={50}></Image>
+                        <Image alt="hii" className="rounded-lg" src='/Images/site/572.png' width={50} height={50}></Image>
                     </Link>
                 </header>
 

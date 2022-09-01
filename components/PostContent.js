@@ -42,10 +42,9 @@ export default function PostContent(props) {
             return (
                 <SyntaxHighlighter
                     style={atomDark}
-                    language={language}
-
-                    children={children}
-                />
+                    language={language}>
+                    {children}
+                </SyntaxHighlighter>
             );
         },
     }
